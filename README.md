@@ -1,7 +1,7 @@
 # Ejercicio-DNS-Raid-Apache
 ## Creación del servidor DNS
 Declarar las zonas de los sitios.
-![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/named.conf.loca.PNG)
+![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/named.conf.local.PNG)
 
 Configurar los servidores DNS a los que va a acudir nuestro servidor en el caso de que nos conozca la IP del nombre por el que le están preguntando.
 ![named.conf.options.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/named.conf.options.PNG)
