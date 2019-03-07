@@ -14,3 +14,10 @@ Crear las zonas directas de cada sitio donde se relacionan las IP con los nombre
 
 Crear la zona inversa donde se relacionan los nombres con las IP.
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/ri.10.PNG)
+
+## Creación del servidor Apache
+Crear los host virtuales
+![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/gato.com.conf.PNG)
+![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/mosquito.com.conf.PNG)
+![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/escherichiacoli.es.conf.PNG)
+![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/chip555.org.conf.PNG)
