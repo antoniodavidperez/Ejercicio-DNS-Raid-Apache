@@ -26,3 +26,4 @@ Los dos sitios que vemos a continuación además de la configuración tienen tam
 ![chip555.org-passwords.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/chip555.org-passwords.PNG)
 ![chip555.org.conf.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/chip555.org.conf.PNG)
 
+## Comprobación desde el lado del cliente
