@@ -19,5 +19,10 @@ Crear la zona inversa donde se relacionan los nombres con las IP.
 Crear los host virtuales, para ello hay que crear primero la estructura de carpetas y luego configurar los archivos.
 ![gato.com.conf.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/gato.com.conf.PNG)
 ![mosquito.com.conf.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/mosquito.com.conf.PNG)
+
+Los dos sitios que vemos a continuación además de la configuración tienen también la de los usuarios. Para ello primero hay que crear un directorio y un archivo donde añadimos los usuarios del sitio.
+![escherichiacoli.es-passwords.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/escherichiacoli.es-passwords.PNG)
 ![escherichiacoli.es.conf.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/escherichiacoli.es.conf.PNG)
+![chip555.org-passwords.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/chip555.org-passwords.PNG)
 ![chip555.org.conf.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/chip555.org.conf.PNG)
+
