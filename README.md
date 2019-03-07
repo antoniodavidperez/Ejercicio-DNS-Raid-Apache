@@ -1,5 +1,5 @@
 # Ejercicio-DNS-Raid-Apache
-#### Creación de servidor DNS
+### Creación del servidor DNS
 Declarar las zonas de los sitios.
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/named.conf.local.PNG)
 
