@@ -1,15 +1,13 @@
 # Ejercicio-DNS-Raid-Apache
-Lo primero que tenemos que hacer es declarar las formas directas para los diferentes sitios y una inversa para todas.
-
+Declarar las zonas de los sitios.
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/named.conf.local.PNG)
 
-Ahora configuramos los servidores DNS a los que nuestro servidor va a preguntar por nombre que no conoce.
-
+Configurar los servidores DNS a los que va a acudir nuestro servidor en el caso de que nos conozca la IP del nombre por el que le están preguntando.
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/named.conf.options.PNG)
 
-Después de preparar el servidor vamos a crear los archivos donde se guardaran las relaciones entre nombre e ip.
-
+Crear las zonas directas donde se relacionan las IP con los nombres.
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/rd.gato.com.PNG)
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/rd.mosquito.com.PNG)
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/rd.escherichiacoli.es.PNG)
 ![named.conf.local.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/rd.chip555.org.PNG)
+
