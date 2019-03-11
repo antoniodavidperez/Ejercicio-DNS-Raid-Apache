@@ -27,5 +27,13 @@ Los dos sitios que vemos a continuación además de la configuración tienen tam
 ![chip555.org.conf.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/chip555.org.conf.PNG)
 
 ## Comprobación desde el lado del cliente
-Comprobación de los host por el terminar de un cliente
+Comprobación de los host por el terminar de un cliente.
 ![comprobacionHost.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/comprobacionHost.PNG)
+
+Comprobación de los host en el navegador del cliente.
+![navegadorGato.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/navegadorGato.PNG)
+![navegadorMosquito.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/navegadorMosquito.PNG)
+![navegadorEscherichiacoli1.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/navegadorEscherichiacoli1.PNG)
+![navegadorEscherichiacoli2.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/navegadorEscherichiacoli2.PNG)
+![navegadorChip5551.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/navegadorChip5551.PNG)
+![navegadorChip5552.PNG](https://github.com/antoniodavidperez/Ejercicio-DNS-Raid-Apache/blob/master/navegadorChip5552.PNG)
